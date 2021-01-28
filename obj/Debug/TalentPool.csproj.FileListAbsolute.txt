@@ -1,0 +1,12 @@
+C:\Users\Robin Jarnberg\source\repos\TalentPool\bin\Debug\TalentPool.mdf
+C:\Users\Robin Jarnberg\source\repos\TalentPool\bin\Debug\TalentPool_log.ldf
+C:\Users\Robin Jarnberg\source\repos\TalentPool\bin\Debug\TalentPool.exe.config
+C:\Users\Robin Jarnberg\source\repos\TalentPool\bin\Debug\TalentPool.exe
+C:\Users\Robin Jarnberg\source\repos\TalentPool\bin\Debug\TalentPool.pdb
+C:\Users\Robin Jarnberg\source\repos\TalentPool\obj\Debug\TalentPool.csprojAssemblyReference.cache
+C:\Users\Robin Jarnberg\source\repos\TalentPool\obj\Debug\TalentPool.Properties.Resources.resources
+C:\Users\Robin Jarnberg\source\repos\TalentPool\obj\Debug\TalentPool.csproj.GenerateResource.cache
+C:\Users\Robin Jarnberg\source\repos\TalentPool\obj\Debug\TalentPool.csproj.CoreCompileInputs.cache
+C:\Users\Robin Jarnberg\source\repos\TalentPool\obj\Debug\TalentPool.exe
+C:\Users\Robin Jarnberg\source\repos\TalentPool\obj\Debug\TalentPool.pdb
+C:\Users\Robin Jarnberg\source\repos\TalentPool\obj\Debug\TalentPool.FrMain.resources
